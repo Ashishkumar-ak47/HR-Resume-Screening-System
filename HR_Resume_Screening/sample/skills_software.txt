@@ -1,0 +1,9 @@
+# Example role profile; one ASCII word skill per line.
+C
+Java
+Python
+SQL
+Linux
+Git
+REST
+Docker

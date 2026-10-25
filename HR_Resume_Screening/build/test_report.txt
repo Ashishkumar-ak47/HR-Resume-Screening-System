@@ -1,0 +1,34 @@
+
++--------------------------------------------------+
+|             HR RESUME SCREENING                 |
++--------------------------------------------------+
+Required-skill coverage: 100.0%  (8 of 8)
+Resume size: 244 bytes  |  Words analyzed: 39
+
+MATCHED SKILLS
+  [x] c                    2 mentions
+  [x] java                 2 mentions
+  [x] python               2 mentions
+  [x] sql                  2 mentions
+  [x] linux                2 mentions
+  [x] git                  1 mentions
+  [x] rest                 2 mentions
+  [x] docker               2 mentions
+
+SKILLS TO REVIEW
+  None
+
+KEYWORD FREQUENCY (highest first)
+  c                    2
+  java                 2
+  python               2
+  sql                  2
+  linux                2
+  rest                 2
+  docker               2
+  git                  1
+
+SCREENING SUMMARY
+  Strong match
+Scoring: each configured skill has equal weight.
+Decision support only; a human reviewer must verify evidence.

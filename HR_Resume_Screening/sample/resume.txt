@@ -1,0 +1,6 @@
+Alex Morgan
+Software Developer
+
+Skills: C, Java, Python, SQL, Linux, Git, REST, Docker
+Built a Python data-processing tool backed by SQL queries on Linux.
+Developed software modules in C and Java, built REST APIs, and deployed Docker services.
