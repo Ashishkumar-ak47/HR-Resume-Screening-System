@@ -1,0 +1,10 @@
+/build/*
+!/build/.gitkeep
+/data/employees.txt.tmp
+/data/employees.txt.tmp.tmp
+/data/employees.txt
+*.o
+*.exe
+report.txt
+test_resume_*.txt
+test_skills_*.txt
